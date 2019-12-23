@@ -1,0 +1,5 @@
+name: demo
+dependencies:
+- pytorch=2.7.12
+- pytorch=0.4.1
+- numpy=1.14.6
