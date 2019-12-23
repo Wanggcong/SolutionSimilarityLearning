@@ -1,9 +1,10 @@
+
+Paper Link: https://openreview.net/forum?id=rJgCOySYwH&noteId=rJgCOySYwH&invitationId=ICLR.cc/2020/Conference/Paper1824
+
 ## New!
-Please click this link for updated version: 
+2019.12.23: This is one of my favor papers. A clearer theoretical explanation is comming soon.
 
-https://github.com/Wanggcong/SolutionSimilarityLearning.git
 
-This repo will be not updated.
 
 
 
