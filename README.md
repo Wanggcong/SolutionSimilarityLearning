@@ -1,4 +1,15 @@
+# Paper and Citation:
 [Paper Link](https://openreview.net/forum?id=rJgCOySYwH&noteId=rJgCOySYwH&invitationId=ICLR.cc/2020/Conference/Paper1824)
+```
+@misc{
+wang2020function,
+title={Function Feature Learning of Neural Networks},
+author={Guangcong Wang and Jianhuang Lai and Guangrun Wang and Wenqi Liang},
+year={2020},
+url={https://openreview.net/forum?id=rJgCOySYwH}
+}
+```
+
 ## New!
 2019.12.23: This is one of my favor papers. A clearer theoretical explanation is comming soon.
 
@@ -40,13 +51,3 @@ Some related absolute paths could be invalid. The code is simple. It could take 
 
 **D. Related scripts are at ./scripts**
 
-# Citation:
-```
-@misc{
-wang2020function,
-title={Function Feature Learning of Neural Networks},
-author={Guangcong Wang and Jianhuang Lai and Guangrun Wang and Wenqi Liang},
-year={2020},
-url={https://openreview.net/forum?id=rJgCOySYwH}
-}
-```
