@@ -1,4 +1,4 @@
-# Paper and Citation:
+## Paper and Citation:
 [Paper Link](https://openreview.net/forum?id=rJgCOySYwH&noteId=rJgCOySYwH&invitationId=ICLR.cc/2020/Conference/Paper1824)
 ```
 @misc{
