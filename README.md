@@ -33,3 +33,12 @@ Some related absolute paths could be invalid. The code is simple. It could take 
 
 
 ### Related scripts are at ./scripts
+
+# Citation:
+@misc{
+wang2020function,
+title={Function Feature Learning of Neural Networks},
+author={Guangcong Wang and Jianhuang Lai and Guangrun Wang and Wenqi Liang},
+year={2020},
+url={https://openreview.net/forum?id=rJgCOySYwH}
+}
